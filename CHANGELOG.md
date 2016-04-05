@@ -1,9 +1,9 @@
-## 0.8.1.0 (2016-01-12)
+## 0.8.2.0 (2016-01-12)
 
 Updates:
 
-  - summernote asset update to 0.8.1
+  - summernote asset update to 0.8.2
 
 Changes:
 
-  - From summernote version 0.8.0 `font-awesome` is no more needed. remove `font-awesome-rails` gem or `font-awesome` asset.
+  - Fixes foreCore usage of HTML5 invalid font tag defect.
